@@ -1,5 +1,5 @@
 
-<img src="img/splash.jpg" alt="banner">
+<img src="img/splash.bmp" alt="banner">
 
 ## What TF PrismaLoader is?
 
