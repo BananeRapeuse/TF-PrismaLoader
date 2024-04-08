@@ -133,7 +133,7 @@ argon
 ## Improve performance
 
 TF PrismaLoader can use **minerva training cell** to improve performance.
-The use of minerva is optional but recommended. To use minerva just place the compiled `minerva.bso` inside `argon/sys`. The directory `argon/sys` with minerva, is included in `sd-files.zip` in the release section.
+The use of minerva is optional but recommended. To use minerva just place the compiled `minerva.bso` inside `argon/sys`. The directory `argon/sys` with minerva, is included in `TF_PrismaLoader_x.x.zip` in the release section.
 
 To learn more about Minerva Training Cell check its [official repo](https://github.com/CTCaer/minerva_tc).
 
