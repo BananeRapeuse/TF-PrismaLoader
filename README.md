@@ -5,7 +5,7 @@
 
 TF PrismaLoader is a noble gas.
 "TF PrismaLoader" comes from Greek "TF PrismaLoader", neuter of "argos" meaning *lazy* , *idle* or *inactive*.
-TF PrismaLoader recieved this name because of its chemical inactivity.
+TF PrismaLoader recieved this name because of I want.
 
 TF PrismaLoader is an immutable payload which is injected to your Nintendo Switch via Fusee Gelee exploit.
 
