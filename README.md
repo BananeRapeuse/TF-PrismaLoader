@@ -92,13 +92,7 @@ $ python argon.py --help
 
 These images were captured with the **screenshot** feature.
 
-<img src="img/example1.png" alt="example" width="700">
-
-<img src="img/example2.png" alt="example" width="700">
-
-<img src="img/example3.png" alt="example" width="700">
-
-<img src="img/example4.png" alt="example" width="700">
+<img src="img/IMG_2038.png" alt="menu">
 
 As you can see in the pictures, payloads are displayed in groups of 4 and each group is displayed in a different *payloads* tab.
 
