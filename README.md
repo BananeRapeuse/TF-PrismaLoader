@@ -94,9 +94,7 @@ These images were captured with the **screenshot** feature.
 
 <img src="img/IMG_2038.png" alt="menu">
 
-As you can see in the pictures, payloads are displayed in groups of 4 and each group is displayed in a different *payloads* tab.
-
-You can find the logos used in the pictures inside [this directory](img/example-custom/logos) and backgrounds [here](img/example-custom/backgrounds).
+As you can see in the pictures, payloads are displayed in groups of 8 and each group is displayed in a different *payloads* tab.
 
 ## TF PrismaLoader sd card tree
 
@@ -105,23 +103,27 @@ How a full running TF PrismaLoader example looks inside the sd card:
 ```
 argon
 ├─── payloads
-│       Atmosphere.bin
 │       ReiNX.bin
-│       fusee-gelee.bin
+│       fusee-primary.bin
 │       hekate.bin
 │       SXOS.bin
+|       cpr.bin
+|       Tegraexplorer.bin
+|       Lockpick.bin
 │
 ├─── logos
-|       Atmosphere.bmp
+|       fusee-primary.bmp
 |       Reinx.bmp
 |       hekate.bmp
 |       SXOS.bmp
+|       *Other files.bmp
 |
 ├─── sys
 |       minerva.bso # IMPORTANT if you want a good UX experience
 |       resources.argon # IMPORTANT. Binary file containing all render resources except the background and logos
 |
 └─── background.bmp
+└─── splash.bmp
 ```
 
 ## Improve performance
