@@ -142,6 +142,10 @@ Some users reported issuses when chainloading SX OS. <small>But with Atmosphere/
 1. Config file to manage tabs titles and TF PrismaLoader sd card directory tree.
 2. More tools inside tools tab.
 
+## How to launch ?
+
+https://youtu.be/fsh3jVHWpkc
+
 ## Credits
 
 * __devkitPro__ for the [devkitA64](https://devkitpro.org/) toolchain.
