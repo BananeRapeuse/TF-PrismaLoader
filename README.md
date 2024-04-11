@@ -146,7 +146,7 @@ Some users reported issuses when chainloading SX OS. <small>But with Atmosphere/
 
 ## How to launch ?
 
-https://youtu.be/fsh3jVHWpkc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fsh3jVHWpkc?si=qtVR7KsIm_q8e1t-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Credits
 
