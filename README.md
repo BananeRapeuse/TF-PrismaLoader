@@ -94,7 +94,7 @@ These images were captured with the **screenshot** feature.
 
 <img src="img/scr20240311_170620.bmp" alt="menu">
 
-<img src="scr20240311_170629.bmp" alt="menu_options">
+<img src="img/scr20240311_170629.bmp" alt="menu_options">
 
 As you can see in the pictures, payloads are displayed in groups of 8 and each group is displayed in a different *payloads* tab.
 
