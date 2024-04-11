@@ -145,8 +145,7 @@ Some users reported issuses when chainloading SX OS. <small>But with Atmosphere/
 2. More tools inside tools tab.
 
 ## How to launch ?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fsh3jVHWpkc?si=qtVR7KsIm_q8e1t-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/fsh3jVHWpkc?si=I5uccOfCymPFMhXT
 
 ## Credits
 
