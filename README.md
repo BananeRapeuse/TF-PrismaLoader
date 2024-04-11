@@ -38,7 +38,7 @@ argon
 ```
 
 - **Custom backgrounds** can be added by placing `background.bmp` file inside `argon` directory. **The background must be smaller or equal than 1280x720**.
-- Take **screenshots** to share your TF PrismaLoader gui. To capture TF PrismaLoader screen tap anywhere with two or more fingers.
+- Take **screenshots** to share your TF PrismaLoader gui. To capture TF PrismaLoader screen tap anywhere with two or more fingers or use the left "screenshot" button.
 - Touch support. Thanks to @pixel-stuck
 - Simple tools. (Don't expect tools like the onew built in hekate, TF PrismaLoader tools are much more lightweighted and simple, such as reboot options)
 - Command Line Interface (CLI) to facilitate the procedure to create bmp files for custom logos and backgrounds.
