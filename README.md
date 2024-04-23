@@ -156,4 +156,3 @@ https://youtu.be/fsh3jVHWpkc?si=I5uccOfCymPFMhXT
 * __CTCaer__ for the continued [hekate](https://github.com/CTCaer/hekate) and his **minerva** project.
 * __langerhans__ and  __stuck-pixel__ for their implementation of touch support.
 * __LittlevGL__ for being such a good embedded graphics library.
-* __D3fau4__ for touch support testing.
